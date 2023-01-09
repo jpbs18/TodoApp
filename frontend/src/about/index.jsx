@@ -1,0 +1,12 @@
+import React from "react"
+import PageHeader from "../template/pageHeader"
+
+export default props => {
+    return(
+        <div>
+            <PageHeader name="About" small="us" />
+            <h2>Our History</h2>
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laboriosam, soluta! Fugit aspernatur veritatis vero fuga aliquam magnam, officia asperiores et rem labore, obcaecati, veniam ipsum eum laborum accusantium velit suscipit accusamus beatae quaerat impedit! Officia earum quod modi a repellat ipsum ratione aliquid ut quaerat facere ex placeat sunt quia at, vel, aperiam maiores. Quos repellendus similique praesentium fugit ut maxime est quaerat! Ipsa consectetur modi vitae quia incidunt accusantium? Beatae harum dolores iusto fugit veritatis accusantium, obcaecati, eligendi reiciendis quas adipisci corporis voluptatibus non quis deleniti totam aperiam qui nemo odio magni. Placeat ut dicta id quos rem sapiente, reprehenderit possimus vero. Recusandae similique in expedita repudiandae rerum minus dolore debitis vitae ipsam pariatur est, impedit eaque numquam eos dolorem? In, quisquam. Tenetur totam dolore natus hic esse at error sed quas, impedit voluptate, qui magnam eligendi corrupti nulla suscipit fugiat asperiores dolorum. Qui nulla accusantium vel iusto? Facere nesciunt error odio saepe cumque similique, quidem pariatur accusamus iste eaque dolores doloribus vel ratione veritatis velit temporibus aliquid dicta quibusdam suscipit dolore maxime? Sapiente aperiam praesentium maxime accusamus! Doloribus ipsa ratione quod mollitia quaerat id deleniti quae, dolores nemo expedita tempora quo, atque, dolor maxime odit esse et quia facere? Magnam explicabo eos sint unde! Possimus consectetur quo facere nostrum assumenda officia ea deleniti dolore tempore voluptate, aspernatur molestias neque cumque itaque sequi quaerat veritatis? Eveniet quasi officiis cupiditate alias corporis accusantium, obcaecati reprehenderit quaerat, labore laudantium reiciendis voluptate beatae assumenda! Dolore ipsam reprehenderit voluptatibus, amet beatae, quisquam excepturi eveniet et nisi, vero explicabo! Amet cupiditate cumque suscipit aperiam sunt necessitatibus rem? Laudantium sequi cupiditate maxime excepturi. Aliquid numquam, expedita omnis suscipit necessitatibus esse perspiciatis neque adipisci quia voluptatem? Tempore est, a fugit cupiditate laborum explicabo qui porro temporibus unde quisquam suscipit dolorem provident cumque consequatur reprehenderit itaque. Velit!
+        </div>
+    )
+}
